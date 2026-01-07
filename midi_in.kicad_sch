@@ -1,0 +1,15 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 35208cf7-550b-4ff7-852d-9d7896366632)
+
+  (paper "USLetter")
+
+  (title_block
+    (title "Daisy Seed FM Synth Eurorack Module")
+    (rev "1.0")
+  )
+
+  (lib_symbols
+  )
+
+)

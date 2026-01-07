@@ -1,0 +1,1 @@
+Update symbols J1 J4 from 'PCM_4ms_Connector:Eurorack_Power_16pin_Shrouded' to 'PCM_4ms_Connector:Eurorack_Power_16pin_Shrouded': OK
